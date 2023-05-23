@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#crossfit{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#parrafo-crossfit{
+    margin: 0 3rem;
+}
+ 
+#imagenesGaleria img{
+    height: 400px;
+    object-fit: cover;
+}
+
+#menuGaleria .col{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.card:hover{
+    box-shadow: 5px 5px 20px rgb(105, 105, 105);
+    transition: .6s;
+}
+
+
+#menuGaleria .col:hover{
+    box-shadow: 5px 5px 20px rgb(105, 105, 105);
+    transition: .6s;
+}
+
+/* #contacto-entero{
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+    grid-template-rows: 1fr;
+    grid-template-areas: 
+    "contacto-nuwa" "contacto-foto";
+}
+
+#contacto-nuwa{
+    grid-area: contacto-nuwa;
+
+}
+
+#contacto-foto{
+    grid-area: contacto-foto;
+} */
+
+/*nosotros*/
+.parrafo-1{
+    margin: 0 3rem;
+}
+
+.parrafo-2{
+    margin: 0 3rem;
+}
+
