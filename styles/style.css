@@ -62,3 +62,33 @@
     margin: 0 3rem;
 }
 
+/*index*/
+.parrafo{
+    margin: 20px;
+}
+
+.prueba{
+    margin: 70px 0 10px 10px;
+}
+
+.boton{
+    margin: 0 0 50px 0;
+}
+
+/*nosotros*/
+.beneficios{
+    margin: 0 0 40px 0;
+}
+
+.nosotros-box{
+    margin: 20px;
+}
+
+#accordionExample{
+    margin: 0 27px 50px;
+}
+
+#informacion{
+    text-align: center;
+    padding: 50px 0 30px 0;
+}
