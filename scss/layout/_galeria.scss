@@ -1,0 +1,13 @@
+
+
+#imagenes-Galeria{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+}
+
+#menuGaleria .col:hover{
+    box-shadow: 5px 5px 20px rgb(105, 105, 105);
+    transition: .6s;
+}
+

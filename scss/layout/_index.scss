@@ -1,0 +1,20 @@
+#crossfit {
+    @include flex (column,center,10px);
+
+    .parrafo {
+        margin: 20px;
+    }
+
+    #parrafo-crossfit {
+        margin: 0 3rem;
+
+    }
+
+    .prueba {
+        margin: 70px 0 10px 10px;
+    }
+}
+
+.boton {
+    margin: 0 0 50px 0;
+}

@@ -1,0 +1,52 @@
+.nuestras-clases {
+    margin: 00px 3rem;
+}
+
+.comunidad-gym {
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.cards-clases {
+    padding: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    .card-body {
+        font-size: 15px;
+    }
+
+    .card-tiytle {
+        font-size: 40px;
+    }
+
+    .card-crossfit {
+        font-size: 40px;
+    }
+
+    .card-funcional {
+        font-size: 40px;
+    }
+
+
+}
+
+.card:hover {
+    background-color: rgb(93, 92, 92);
+    color: white;
+    transform: scale(1.03);
+    transition: .9s;
+}
+
+.comunidad-gym {
+    margin: 00px 3rem;
+    padding: 0 0 20px 0;
+}
+
+.comunidad-gym{
+    text-align: end;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.primerclase{
+    text-align: end;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

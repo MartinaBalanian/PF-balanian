@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.final {
+  background-color: black;
+}
+
+#crossfit {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+#crossfit .parrafo {
+  margin: 20px;
+}
+#crossfit #parrafo-crossfit {
+  margin: 0 3rem;
+}
+#crossfit .prueba {
+  margin: 70px 0 10px 10px;
+}
+
+.boton {
+  margin: 0 0 50px 0;
+}
+
+.nuestras-clases {
+  margin: 0px 3rem;
+}
+
+.comunidad-gym {
+  justify-content: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.cards-clases {
+  padding: 25px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.cards-clases .card-body {
+  font-size: 15px;
+}
+.cards-clases .card-tiytle {
+  font-size: 40px;
+}
+.cards-clases .card-crossfit {
+  font-size: 40px;
+}
+.cards-clases .card-funcional {
+  font-size: 40px;
+}
+
+.card:hover {
+  background-color: rgb(93, 92, 92);
+  color: white;
+  transform: scale(1.03);
+  transition: 0.9s;
+}
+
+.comunidad-gym {
+  margin: 0px 3rem;
+  padding: 0 0 20px 0;
+}
+
+.comunidad-gym {
+  text-align: end;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.primerclase {
+  text-align: end;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.container-fluid-contacto {
+  margin: 20px 20px 20px 20px;
+}
+.container-fluid-contacto .contactate {
+  margin: 30px;
+}
+
+.beneficios {
+  margin: 0 0 40px 0;
+}
+
+.nosotros-box {
+  margin: 10px 0 0 15px;
+  text-align: center;
+  color: rgb(61, 130, 139);
+  font-size: 50px;
+}
+
+#accordionExample {
+  margin: 0 27px 50px;
+}
+
+#informacion {
+  text-align: center;
+  padding: 50px 0 30px 0;
+}
+#informacion .necesitas-saber {
+  color: rgb(61, 130, 139);
+  font-size: 50px;
+}
+
+.parrafo-1 {
+  margin: 5px 10px 15px 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+
+#imagenes-Galeria {
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+}
+
+#menuGaleria .col:hover {
+  box-shadow: 5px 5px 20px rgb(105, 105, 105);
+  transition: 0.6s;
+}
+
+/*# sourceMappingURL=style.css.map */
