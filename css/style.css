@@ -23,6 +23,8 @@
 }
 #crossfit .parrafo {
   margin: 20px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #crossfit #parrafo-crossfit {
   margin: 0 3rem;
@@ -41,6 +43,17 @@
   color: azure;
   text-decoration: none;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.tarjetasindex {
+  padding: 30px;
+  justify-content: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.productosventa {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
 .nuestras-clases {
@@ -79,9 +92,6 @@
 .comunidad-gym {
   margin: 0px 3rem;
   padding: 0 0 20px 0;
-}
-
-.comunidad-gym {
   text-align: end;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
